@@ -22,6 +22,7 @@ List of companies offering GitHub Copilot to all engineers
 * [FreakOut, フリークアウト](https://www.fout.co.jp/)
 * [Gaudiy](https://gaudiy.com/)
 * [GIG](https://giginc.co.jp/)
+* [Hacobu](https://hacobu.jp/)
 * [High Link](https://high-link.co.jp/)
 * [Ikyu, 一休](https://www.ikyu.co.jp/)
 * [KAI-YOU](https://kai-you.net/)
