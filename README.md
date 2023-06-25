@@ -39,6 +39,7 @@ List of companies offering GitHub Copilot to all engineers
 * [Peraichi, ペライチ](https://peraichi.com/) 
 * [Progate](https://prog-8.com/)
 * [RAGNA ROCK, ラグナロク](https://ragna-rock.com/)
+* [Rakus, ラクス](https://www.rakus.co.jp/)
 * [RiLi](https://corp.rili.tokyo/)
 * [ROUTE06](https://route06.co.jp/)
 * [SARAH](https://corporate.sarah30.com/)
