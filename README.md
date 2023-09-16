@@ -57,4 +57,5 @@ List of companies offering GitHub Copilot to all engineers
 * [TSUKURUBA, ツクルバ](https://tsukuruba.com/)
 * [VirtualCast, バーチャルキャスト](https://virtualcast.jp)
 * [VNOS](https://vnos.info/)
+* [want.jp Inc.](https://corp.want.jp)
 * [Zen Architects](https://zenarchitects.co.jp/)
